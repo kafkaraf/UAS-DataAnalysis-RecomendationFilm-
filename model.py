@@ -248,7 +248,7 @@ joblib.dump(cv, 'cv_model.joblib')
 # In[ ]:
 
 
-
+knn = joblib.load('C:/Users/kafka/OneDrive/Documents/Semester 7/Data Analysis/Rafi Final Project/knn_model.joblib')
 
 
 # In[ ]:
